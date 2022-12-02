@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.tt.rocketmq.template.RocketMqSendTemplate

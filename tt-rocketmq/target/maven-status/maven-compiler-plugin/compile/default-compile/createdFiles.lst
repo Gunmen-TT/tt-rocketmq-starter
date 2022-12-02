@@ -1,0 +1,6 @@
+cn\tt\rocketmq\demo\RocketMqConsumer.class
+cn\tt\rocketmq\template\RocketMqSendTemplate.class
+cn\tt\rocketmq\listener\BaseMqMessageListener.class
+cn\tt\rocketmq\template\RocketMqSendTemplate$1.class
+cn\tt\rocketmq\demo\ConsumerEntityMessage.class
+cn\tt\rocketmq\domain\BaseMqMessage.class
